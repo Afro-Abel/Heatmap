@@ -1,12 +1,4 @@
-/**
- * Main driver for heatmap program.
- *
- * @author CPSC 223 Staff and you
- */
 
-// see the header file for suggestions on how the suggested functions behave
-// (but this and heatmap.c are in Optional, so you can do whatever you want
-// or need to do with any of this code -- that goes for track.c as well)
 #include "heatmap.h"
 #include <stdio.h>
 #include <stdlib.h>
